@@ -1,4 +1,6 @@
 ---
+title: Research Methods and Professional Practice
+---
 
 Welcome to my module e-portfolio. This includes collaborative discussions, reflective activities, worksheets, and more.
 
@@ -64,4 +66,3 @@ Welcome to my module e-portfolio. This includes collaborative discussions, refle
 ---
 
 [⬅️ Back to main homepage](../index.md)
-
