@@ -2,7 +2,7 @@
 title: Research Methods and Professional Practice
 ---
 
-Welcome to my module e-portfolio. This includes collaborative discussions, reflective activities, worksheets, and more.
+Welcome to my module 📚 Research Methods and Professional Practice e-portfolio. This includes collaborative discussions, reflective activities, worksheets, and more.
 
 ---
 
