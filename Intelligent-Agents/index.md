@@ -7,7 +7,7 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 ## 🔹 Collaborative Discussions
 
 ### 📘 Collaborative Discussion 1: Agent Based Systems  
-- **Initial Post:** [View Initial Post](./DiscussionPosts/IA_InitialPost1.pdf) 
+- **Initial Post:** [View Initial Post](/MSc-AI-ePortfolio/Intelligent-Agents/DiscussionPosts/C1PR1.html)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/C1PR1.md)
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/IA_PeerReview1_2.md)  
 - **Peer Review 3:** [View Peer Review](./DiscussionPosts/IA_PeerReview1_3.md)  
