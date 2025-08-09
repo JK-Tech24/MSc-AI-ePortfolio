@@ -1,4 +1,4 @@
-# MSc-AI-ePortfolio
+# 📚 Module: Intelligent Agents 
 
 Welcome to my module Intelligent Agents e-portfolio. This includes collaborative discussions, practical activities, and deep learning exercises — all focused on understanding how intelligent agents operate, communicate, and learn.
 
@@ -37,5 +37,12 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 
 ### 🧠 Activity: Deep Learning in Action  
 - **Link:** [View Activity](./Activities/Deep_Learning_in_Action.pdf)
+
+---
+
+## 🔹 Reflective Analysis
+
+### 📈 Reflective Analysis: My Learning Journey Through Intelligent Agents 
+- **Link:** [View reflective piece](./reflective%20piece.docx.pdf)
 
 
