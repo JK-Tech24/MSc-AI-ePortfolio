@@ -1,6 +1,6 @@
 # 📚 Module: Research Methods and Professional Practice  
 
-Welcome to my module Research Methods and Professional Practice e-portfolio. This includes collaborative discussions, reflective activities, e-portfolio tasks, and reflective analysis focused on the essential skills and knowledge required for rigorous research and professional conduct in Artificial Intelligence.
+Welcome to my module Research Methods and Professional Practice e-portfolio. This includes collaborative discussions, reflective activities, seminar worksheets, and analysis pieces — all aimed at developing the skills and knowledge needed for effective and ethical research in Artificial Intelligence.
 
 ---
 
