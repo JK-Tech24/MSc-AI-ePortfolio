@@ -1,6 +1,6 @@
 # MSc-AI-ePortfolio
 
-Welcome to my module **Intelligent Agents** e-portfolio. This includes collaborative discussions, practical activities, and deep learning exercises.
+Welcome to my module Research Methods and Professional Practice e-portfolio. This includes collaborative discussions, reflective activities, seminar worksheets, and analysis pieces — all aimed at developing the skills and knowledge needed for effective and ethical research in Artificial Intelligence.
 
 ---
 
