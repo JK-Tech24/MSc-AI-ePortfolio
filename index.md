@@ -12,9 +12,18 @@
 The below 7 courses were part of my MSc journey. The ones marked with `*` are viewable as they were mandatory for my e-portfolio.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-white?style=for-the-badge&logo=github" alt="Understanding Artificial Intelligence">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Numerical_Analysis-white?style=for-the-badge&logo=github" alt="Numerical Analysis">
+</p>
+<p align="left">
   <a href="./Machine-Learning/">
     <img src="https://img.shields.io/badge/Machine_Learning-white?style=for-the-badge&logo=github" alt="Machine Learning"> *
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Knowledge_Representation_and_Reasoning-white?style=for-the-badge&logo=github" alt="Knowledge Representation and Reasoning">
 </p>
 <p align="left">
   <a href="./Research-Methods-and-Professional-Practice/">
@@ -25,15 +34,6 @@ The below 7 courses were part of my MSc journey. The ones marked with `*` are vi
   <a href="./Intelligent-Agents/">
     <img src="https://img.shields.io/badge/Intelligent_Agents-white?style=for-the-badge&logo=github" alt="Intelligent Agents"> *
   </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-white?style=for-the-badge&logo=github" alt="Understanding Artificial Intelligence">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Numerical_Analysis-white?style=for-the-badge&logo=github" alt="Numerical Analysis">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Knowledge_Representation_and_Reasoning-white?style=for-the-badge&logo=github" alt="Knowledge Representation and Reasoning">
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/MSc_Computing_Project-white?style=for-the-badge&logo=github" alt="MSc Computing Project">
