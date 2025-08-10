@@ -15,9 +15,13 @@ Click a module below to view its contents:
   <a href="./Machine-Learning/">
     <img src="https://img.shields.io/badge/🧠_Machine_Learning-orange?style=for-the-badge" alt="Machine Learning">
   </a>
+</p>
+<p align="center">
   <a href="./Research-Methods-and-Professional-Practice/">
     <img src="https://img.shields.io/badge/📚_Research_Methods-blue?style=for-the-badge" alt="Research Methods and Professional Practice">
   </a>
+</p>
+<p align="center">
   <a href="./Intelligent-Agents/">
     <img src="https://img.shields.io/badge/🤖_Intelligent_Agents-green?style=for-the-badge" alt="Intelligent Agents">
   </a>
