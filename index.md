@@ -11,8 +11,7 @@
 
 > 🌟 *Every module is a milestone… every click takes you deeper into my AI journey.*  
 
-Below are all the modules that make up my MSc journey — each one a step in my path to mastering Artificial Intelligence.  
-Click on **Machine Learning**, **Research Methods and Professional Practice**, or **Intelligent Agents** to explore their contents.
+Click on **Machine Learning**, **Research Methods and Professional Practice**, or **Intelligent Agents** to explore their contents — these were mandatory for my e-portfolio.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-grey?style=for-the-badge" alt="Understanding Artificial Intelligence">
