@@ -9,36 +9,34 @@
 
 ## 🚀 My MSc AI Modules
 
-> 🌟 *Every module is a milestone… every click takes you deeper into my AI journey.*  
+The below 7 courses were part of my MSc journey, of which the 3 shown in **grey buttons** are the only viewable and were mandatory for my e-portfolio.
 
-**The three courses shown in grey buttons are the only ones you can view — they were mandatory for my e-portfolio.**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-white?style=for-the-badge&logo=github" alt="Understanding Artificial Intelligence">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Numerical_Analysis-white?style=for-the-badge&logo=github" alt="Numerical Analysis">
-</p>
 <p align="left">
   <a href="./Machine-Learning/">
-    <img src="https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge&logo=github" alt="Machine Learning">
+    <img src="https://img.shields.io/badge/Machine_Learning-grey?style=for-the-badge&logo=github" alt="Machine Learning"> 📖 Viewable
   </a>
 </p>
 <p align="left">
   <a href="./Research-Methods-and-Professional-Practice/">
-    <img src="https://img.shields.io/badge/Research_Methods_and_Professional_Practice-grey?style=for-the-badge&logo=github" alt="Research Methods and Professional Practice">
+    <img src="https://img.shields.io/badge/Research_Methods_and_Professional_Practice-grey?style=for-the-badge&logo=github" alt="Research Methods and Professional Practice"> 📖 Viewable
   </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Knowledge_Representation_and_Reasoning-white?style=for-the-badge&logo=github" alt="Knowledge Representation and Reasoning">
 </p>
 <p align="left">
   <a href="./Intelligent-Agents/">
-    <img src="https://img.shields.io/badge/Intelligent_Agents-grey?style=for-the-badge&logo=github" alt="Intelligent Agents">
+    <img src="https://img.shields.io/badge/Intelligent_Agents-grey?style=for-the-badge&logo=github" alt="Intelligent Agents"> 📖 Viewable
   </a>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/MSc_Computing_Project-white?style=for-the-badge&logo=github" alt="MSc Computing Project">
+  <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-white?style=for-the-badge&logo=github" alt="Understanding Artificial Intelligence"> ⏳ Coming Soon
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Numerical_Analysis-white?style=for-the-badge&logo=github" alt="Numerical Analysis"> ⏳ Coming Soon
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Knowledge_Representation_and_Reasoning-white?style=for-the-badge&logo=github" alt="Knowledge Representation and Reasoning"> ⏳ Coming Soon
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MSc_Computing_Project-white?style=for-the-badge&logo=github" alt="MSc Computing Project"> ⏳ Coming Soon
 </p>
 
 ---
