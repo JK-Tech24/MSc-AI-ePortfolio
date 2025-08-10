@@ -9,17 +9,17 @@ This includes collaborative discussions, formative activities, seminar preparati
 
 ### 📘 Collaborative Discussion 1 (Unit 1)
 **Case Study: Royal Bank of Scotland IT Crash (2015)**  
-- **Initial Post:** [View on Google Colab](https://colab.research.google.com/drive/1ovmf3o8S_ZAf_2XbVGIxNlXCHj0HvlEq?usp=sharing)  
-- **Peer Review 1:** [View on Google Colab](https://colab.research.google.com/drive/1HAlr_9NjeQk9_NsraH_hVsRcAp-yxQey)  
-- **Peer Review 2:** [View on Google Colab](https://colab.research.google.com/drive/1hCrAKD6X75nLRwqGJObrTxuiBaRnvsVF?usp=sharing)  
-- **Summary Post:** [View on Google Colab](https://colab.research.google.com/drive/1an_8GuceQaXcsL6_k5-Uy8ZHMgQjTxhu?usp=sharing)  
+- **Initial Post:** [View](https://colab.research.google.com/drive/1ovmf3o8S_ZAf_2XbVGIxNlXCHj0HvlEq?usp=sharing)  
+- **Peer Review 1:** [View](https://colab.research.google.com/drive/1HAlr_9NjeQk9_NsraH_hVsRcAp-yxQey)  
+- **Peer Review 2:** [View](https://colab.research.google.com/drive/1hCrAKD6X75nLRwqGJObrTxuiBaRnvsVF?usp=sharing)  
+- **Summary Post:** [View](https://colab.research.google.com/drive/1an_8GuceQaXcsL6_k5-Uy8ZHMgQjTxhu?usp=sharing)  
 
 ---
 
 ## 🔹 Seminar Preparations & Activities
 
 ### 📄 Unit 2: Exploratory Data Analysis (Auto MPG Dataset)
-- **Link:** [View on Google Colab](https://colab.research.google.com/drive/1kOf5vCPlM3jHplXVqjc5g2m0lGeEiPdS)
+- **Link:** [View](https://colab.research.google.com/drive/1kOf5vCPlM3jHplXVqjc5g2m0lGeEiPdS)
 
 ### 📄 Unit 3: Correlation & Regression Analysis
 - **Covariance & Pearson Correlation:** [View](https://colab.research.google.com/drive/17rATz8dGtHINWNewQK-ynpGpuO7r_ipY)  
