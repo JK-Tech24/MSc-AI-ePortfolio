@@ -9,21 +9,21 @@
 
 ## 🚀 My MSc AI Modules
 
-The below 7 courses were part of my MSc journey. The ones marked with `* viewable` were mandatory for my e-portfolio.
+The below 7 courses were part of my MSc journey. The ones marked with `*` are viewable as they were mandatory for my e-portfolio.
 
 <p align="left">
   <a href="./Machine-Learning/">
-    <img src="https://img.shields.io/badge/Machine_Learning-white?style=for-the-badge&logo=github" alt="Machine Learning"> * viewable
+    <img src="https://img.shields.io/badge/Machine_Learning-white?style=for-the-badge&logo=github" alt="Machine Learning"> *
   </a>
 </p>
 <p align="left">
   <a href="./Research-Methods-and-Professional-Practice/">
-    <img src="https://img.shields.io/badge/Research_Methods_and_Professional_Practice-white?style=for-the-badge&logo=github" alt="Research Methods and Professional Practice"> * viewable
+    <img src="https://img.shields.io/badge/Research_Methods_and_Professional_Practice-white?style=for-the-badge&logo=github" alt="Research Methods and Professional Practice"> *
   </a>
 </p>
 <p align="left">
   <a href="./Intelligent-Agents/">
-    <img src="https://img.shields.io/badge/Intelligent_Agents-white?style=for-the-badge&logo=github" alt="Intelligent Agents"> * viewable
+    <img src="https://img.shields.io/badge/Intelligent_Agents-white?style=for-the-badge&logo=github" alt="Intelligent Agents"> *
   </a>
 </p>
 <p align="left">
