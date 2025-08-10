@@ -11,7 +11,7 @@
 
 > 🌟 *Every module is a milestone… every click takes you deeper into my AI journey.*  
 
-Below, the courses in **grey buttons** are viewable as these were mandatory for my e-portfolio.
+**The three courses shown in grey buttons are the only ones you can view — they were mandatory for my e-portfolio.**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-white?style=for-the-badge&logo=github" alt="Understanding Artificial Intelligence">
