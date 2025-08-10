@@ -11,7 +11,7 @@
 
 > 🌟 *Every module is a milestone… every click takes you deeper into my AI journey.*  
 
-Click on **Machine Learning**, **Research Methods and Professional Practice**, or **Intelligent Agents** to explore their contents — these were mandatory for my e-portfolio.
+Below, the courses in **grey buttons** are viewable as these were mandatory for my e-portfolio.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Understanding_Artificial_Intelligence-white?style=for-the-badge&logo=github" alt="Understanding Artificial Intelligence">
