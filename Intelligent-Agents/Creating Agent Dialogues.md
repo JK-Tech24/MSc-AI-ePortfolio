@@ -55,7 +55,7 @@
 ---
 
 ## Summary
-Alice queries 50-inch TV availability. Bob returns brand-specific stock (Samsung and LG). Alice then asks about HDMI ports; Bob confirms Samsung has 3 and LG has 4.
+Alice queries 50-inch TV availability. Bob returns brand-specific stock (Samsung (15) and LG (8)). Alice then asks about HDMI ports; Bob confirms Samsung has 3 and LG has 4.
 
 ---
 
