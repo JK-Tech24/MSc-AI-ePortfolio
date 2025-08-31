@@ -6,7 +6,6 @@
 - **Protocol**: KQML (communication)
 - **Content Language**: KIF (knowledge representation)
 
----
 
 ## Dialogue
 
@@ -52,7 +51,6 @@
                 (= (hdmi-ports (television 50-inch LG)) 4)))
 ```
 
----
 
 ## Summary
 Alice queries 50-inch TV availability. Bob returns brand-specific stock (Samsung (15) and LG (8)). Alice then asks about HDMI ports; Bob confirms Samsung has 3 and LG has 4.
