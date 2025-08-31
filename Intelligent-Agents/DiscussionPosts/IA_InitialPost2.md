@@ -20,5 +20,5 @@ Sycara, K. (1998). Multiagent systems. AI Magazine, 19(2), 79–92.
 
 Jennings, N. R., Sycara, K., & Wooldridge, M. (1998). A roadmap of agent research and development. Autonomous Agents and Multi-Agent Systems, 1(1), 7–38.
 
-Smythos AI Research Group. (2025). Ontology alignment challenges in multi-agent communication. Working Paper, Smythos Institute. (Again, if you’re keeping it as a placeholder, note it as forthcoming or “in preparation.”)
+Smythos AI Research Group. (2025). Ontology alignment challenges in multi-agent communication. Working Paper, Smythos Institute.
 
