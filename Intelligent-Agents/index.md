@@ -30,7 +30,8 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 ## 🔹 e-Portfolio Activities / Practical Tasks
 
 ### 🗨️ Activity: Creating Agent Dialogues  
-- **Link:** [View Activity][View Activity](https://github.com/Intelligent-Agents/Intelligent-Agents/blob/main/Intelligent-Agents/Creating%20Agent%20Dialogues.md)
+- **Link:** [View Activity](https://github.com/Intelligent-Agents/Intelligent-Agents/blob/main/DiscussionPosts/Creating%20Agent%20Dialogues.md)
+
 
 ### 🌳 Activity: Creating Parse Trees  
 - **Link:** [View Activity](./Activities/Creating_Parse_Trees.pdf)
