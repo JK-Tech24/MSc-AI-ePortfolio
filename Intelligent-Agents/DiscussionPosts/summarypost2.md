@@ -15,9 +15,15 @@ In summary, KQML shows the conflict between expressiveness and performance. Ongo
 References
 
 Drasko, J., & Rakic, B. (2024). Distributed agent communication in dynamic systems. Springer.
+
 Finin, T., Labrou, Y., & Mayfield, J. (1997). KQML as an agent communication language. In J. M. Bradshaw (Ed.), Software Agents (pp. 291–316). MIT Press.
+
 Jennings, N. R., Sycara, K., & Wooldridge, M. (1998). A roadmap of agent research and development. Autonomous Agents and Multi-Agent Systems, 1(1), 7–38.
+
 Labrou, Y., & Finin, T. (1997). A semantics approach for KQML—a general purpose communication language for software agents. In Proceedings of the Third International Conference on Information and Knowledge Management (pp. 447–455). ACM.
+
 Sycara, K. (1998). Multi-agent systems. AI Magazine, 19(2), 79–92.
+
 Smythos AI Research Group. (2025). Ontology alignment challenges in multi-agent communication. Smythos Institute.
+
 Wooldridge, M. (2009). An Introduction to MultiAgent Systems (2nd ed.). John Wiley & Sons.
