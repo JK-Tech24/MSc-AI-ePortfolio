@@ -15,7 +15,7 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 
 ### 📘 Collaborative Discussion 2: Agent Communication Languages  
 - **Initial Post:** [View Initial Post](./DiscussionPosts/IA_InitialPost2.md)
-- **Peer Review 1:** [View Peer Review](Intelligent-Agents/DiscussionPosts/peerreview11.md)
+- **Peer Review 1:** [View Peer Review](./DiscussionPosts/peerreview11.md)
 - **Summary Post:** [View Summary Post](./DiscussionPosts/summarypost2.md)
 
 ### 📘 Collaborative Discussion 3: Deep Learning  
