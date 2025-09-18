@@ -14,24 +14,39 @@ Learning Outcomes
 Working through these examples turned out to be more than a grammar drill. It’s a reminder that language agents face the same ambiguities we do. Building trees sharpens my ability to take tangled input and shape it into structured, machine-readable form. It also connects directly to research on natural language systems, which depends on navigating nuance, context, and competing interpretations.
 
 (S
+
   (NP (DT The) (NN government))
+  
   (VP (VBD raised) (NP (NN interest) (NNS rates))))
 
 (S
+
   (NP (DT The) (NN internet))
+  
   (VP (VBZ gives)
+  
     (NP (NN everyone))
+    
     (NP (DT a) (NN voice))))
 
 (S
+
   (NP (DT The) (NN man))
+  
   (VP (VBD saw)
+  
     (NP
+    
       (NP (DT the) (NN dog))
+      
       (PP (IN with) (NP (DT the) (NN telescope))))))
 
 (S
+
   (NP (DT The) (NN man))
+  
   (VP (VBD saw)
+  
     (NP (DT the) (NN dog))
+    
     (PP (IN with) (NP (DT the) (NN telescope)))))
