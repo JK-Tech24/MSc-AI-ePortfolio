@@ -32,7 +32,7 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Link:** [View Activity](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/Creating-Agent-Dialogues.html)
 
 ### 🌳 Activity: Creating Parse Trees  
-**Link:** [View Activity](https://github.com/JK-Tech24/MSc-AI-ePortfolio/blob/main/Intelligent-Agents/Creating%20Parse%20Trees.md)
+**Link:** [View Activity](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/Creating%20Parse%20Trees.html)
 
 ### 🧠 Activity: Deep Learning in Action  
 - **Link:** [View Activity](./Activities/Deep_Learning_in_Action.pdf)
