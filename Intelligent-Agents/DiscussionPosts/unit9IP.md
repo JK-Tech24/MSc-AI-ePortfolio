@@ -14,10 +14,8 @@ References
 
 AP News (2024) AI-generated child sexual abuse images are spreading. Available at: https://apnews.com/article/42186aaf8c9e27c39060f9678ebb6d7b 
 
-Hagendorff, T. (2024) ‘Mapping the ethics of generative AI: a comprehensive scoping review’, AI & Society. Springer. Available at: https://link.springer.com/article/10.1007/s11023-024-09694-w 
-
-MDPI (2024) ‘Ethical challenges and solutions of generative AI’, Informatics, 11(3), p. 58. Available at: https://www.mdpi.com/2227-9709/11/3/58 
-
 ScienceTimes (2025) Ethics in generative AI: addressing bias, misinformation, and intellectual property challenges. Available at: https://www.sciencetimes.com/articles/60309/20250223/ethics-generative-ai-addressing-bias-misinformation-intellectual-property-challenges.htm 
 
 Wired (2025) OpenAI’s Sora is plagued by sexist, racist, and ableist biases. Available at: https://www.wired.com/story/openai-sora-video-generator-bias 
+
+ 
