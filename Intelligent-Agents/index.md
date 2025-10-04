@@ -20,7 +20,7 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 
 ### 📘 Collaborative Discussion 3: Deep Learning  
 - **Initial Post:** [View Initial Post](./DiscussionPosts/unit9IP.md)
-- **Peer Review 1:** [View Peer Review](./DiscussionPosts/IA_PeerReview3_1.md)  
+- **Peer Review 1:** [View Peer Review](./DiscussionPosts/IA_PeerReview3.md)  
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/IA_PeerReview3_2.md)  
 - **Summary Post:** [View Summary Post](./DiscussionPosts/IA_SummaryPost3.md)
 
