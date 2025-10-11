@@ -22,7 +22,7 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Initial Post:** [View Initial Post](./DiscussionPosts/unit9IP.md)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/IA_PeerReview3.md)  
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/IA_PeerReview4.md)  
-- **Summary Post:** [View Summary Post](./DiscussionPosts/IA_SummaryPost3.md)
+- **Summary Post:** [View Summary Post](./DiscussionPosts/DP3summary.md)
 
 ---
 
