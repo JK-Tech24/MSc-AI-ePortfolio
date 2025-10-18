@@ -10,18 +10,31 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Initial Post:** [View Initial Post](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/DiscussionPosts/IA_InitialPost1.pdf)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/C1PR1.md)
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/C1PR2.md) 
-- **Peer Review 3:** [View Peer Review](./DiscussionPosts/C1PR3.md) 
+- **Peer Review 3:** [View Peer Review](./DiscussionPosts/C1PR3.md)  
+- **My First Respond:** [View Response](./DiscussionPosts/MyFirstRespond1.md)  
+- **My 2nd Respond:** [View Response](./DiscussionPosts/MySecondRespond1.md)  
+- **My 3rd Respond:** [View Response](./DiscussionPosts/MyThirdRespond1.md)  
 - **Summary Post:** [View Summary Post](./DiscussionPosts/IA_SummaryPost1.pdf.pdf)
+
+---
 
 ### 📘 Collaborative Discussion 2: Agent Communication Languages  
 - **Initial Post:** [View Initial Post](./DiscussionPosts/IA_InitialPost2.md)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/peerreview11.md)
+- **My First Respond:** [View Response](./DiscussionPosts/MyFirstRespond2.md)  
+- **My 2nd Respond:** [View Response](./DiscussionPosts/MySecondRespond2.md)  
+- **My 3rd Respond:** [View Response](./DiscussionPosts/MyThirdRespond2.md)  
 - **Summary Post:** [View Summary Post](./DiscussionPosts/summarypost2.md)
+
+---
 
 ### 📘 Collaborative Discussion 3: Deep Learning  
 - **Initial Post:** [View Initial Post](./DiscussionPosts/unit9IP.md)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/IA_PeerReview3.md)  
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/IA_PeerReview4.md)  
+- **My First Respond:** [View Response](./DiscussionPosts/MyFirstRespond3.md)  
+- **My 2nd Respond:** [View Response](./DiscussionPosts/MySecondRespond3.md)  
+- **My 3rd Respond:** [View Response](./DiscussionPosts/MyThirdRespond3.md)  
 - **Summary Post:** [View Summary Post](./DiscussionPosts/DP3summary.md)
 
 ---
@@ -32,11 +45,10 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Link:** [View Activity](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/Creating-Agent-Dialogues.html)
 
 ### 🌳 Activity: Creating Parse Trees  
-**Link:** [View Activity](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/Creating%20Parse%20Trees.html) 
+- **Link:** [View Activity](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/Creating%20Parse%20Trees.html) 
 
 ### 🧠 Activity: Deep Learning in Action  
 - **Link:** [View Activity](https://jk-tech24.github.io/MSc-AI-ePortfolio/Intelligent-Agents/DeepLearninginAction.html)
-
 
 ---
 
@@ -44,5 +56,3 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 
 ### 📈 Reflective Analysis: My Learning Journey Through Intelligent Agents 
 - **Link:** [View reflective piece](./Individual e-Portfolio.pdf)
-
-
