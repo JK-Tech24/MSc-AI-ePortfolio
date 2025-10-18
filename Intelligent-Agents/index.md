@@ -11,9 +11,9 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/C1PR1.md)
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/C1PR2.md) 
 - **Peer Review 3:** [View Peer Review](./DiscussionPosts/C1PR3.md)  
-- **My First Respond:** [View Response](./DiscussionPosts/MyFirstRespond1.md)  
-- **My 2nd Respond:** [View Response](./DiscussionPosts/MySecondRespond1.md)  
-- **My 3rd Respond:** [View Response](./DiscussionPosts/MyThirdRespond1.md)  
+- **My First Respond:** [View Response](./DiscussionPosts/RP11.md)
+- **My 2nd Respond:** [View Response](./DiscussionPosts/RP12.md) 
+- **My 3rd Respond:** [View Response](./DiscussionPosts/RP13.md)  
 - **Summary Post:** [View Summary Post](./DiscussionPosts/IA_SummaryPost1.pdf.pdf)
 
 ---
@@ -22,9 +22,9 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Initial Post:** [View Initial Post](./DiscussionPosts/IA_InitialPost2.md)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/peerreview11.md)
 - **My First Respond:** [View Response](./DiscussionPosts/MyFirstRespond2.md)  
-- **My 2nd Respond:** [View Response](./DiscussionPosts/MySecondRespond2.md)  
-- **My 3rd Respond:** [View Response](./DiscussionPosts/MyThirdRespond2.md)  
-- **Summary Post:** [View Summary Post](./DiscussionPosts/summarypost2.md)
+- **My 2nd Respond:** [View Response](./DiscussionPosts/RP21.md) 
+- **My 3rd Respond:** [View Response](./DiscussionPosts/RP22.md) 
+- **Summary Post:** [View Summary Post](./DiscussionPosts/RP23.md) 
 
 ---
 
@@ -32,9 +32,9 @@ Welcome to my module Intelligent Agents e-portfolio. This includes collaborative
 - **Initial Post:** [View Initial Post](./DiscussionPosts/unit9IP.md)
 - **Peer Review 1:** [View Peer Review](./DiscussionPosts/IA_PeerReview3.md)  
 - **Peer Review 2:** [View Peer Review](./DiscussionPosts/IA_PeerReview4.md)  
-- **My First Respond:** [View Response](./DiscussionPosts/MyFirstRespond3.md)  
-- **My 2nd Respond:** [View Response](./DiscussionPosts/MySecondRespond3.md)  
-- **My 3rd Respond:** [View Response](./DiscussionPosts/MyThirdRespond3.md)  
+- **My First Respond:** [View Response](./DiscussionPosts/RP31.md) 
+- **My 2nd Respond:** [View Response](./DiscussionPosts/RP32.md)  
+- **My 3rd Respond:** [View Response](./DiscussionPosts/RP33.md) 
 - **Summary Post:** [View Summary Post](./DiscussionPosts/DP3summary.md)
 
 ---
