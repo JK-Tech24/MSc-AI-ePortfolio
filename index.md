@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository brings together the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It reflects the knowledge, technical skills, and practical experience I developed throughout the programme, while also linking naturally with my wider background in engineering, project management, and applied data analysis.
+This repository brings together the work I completed during my MSc in Artificial Intelligence at the University of Essex. It reflects the knowledge, skills, and hands-on experience I gained throughout the programme, while also building on my background in engineering, construction, and project management.
 
 The repository includes the main modules covered during the programme, along with selected work prepared as part of my e-portfolio submission. Modules marked with `*` are included in the mandatory e-portfolio.
 
