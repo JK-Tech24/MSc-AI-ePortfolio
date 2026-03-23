@@ -28,7 +28,7 @@ This repository brings together the work I completed during my **MSc in Artifici
 
 ## Dissertation
 
-The final version presented here is aligned with the corrected dissertation, the evaluated dashboard run, and the uploaded workflow diagram. It shows how the framework combines EVM indicators, interpretable scoring, and comparative AI components to support more practical and transparent decision-making in construction project management.
+My dissertation is included in the **MSc Computing Project** section of this repository. It focuses on developing an **AI-powered early-warning framework** for the early detection and mitigation of delays and cost overruns in construction project management, using project-controls data and a transparent dashboard-based approach. The framework combines EVM indicators, interpretable scoring, and comparative AI components to support practical decision-making.
 
 ---
 
