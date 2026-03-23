@@ -36,6 +36,6 @@ My dissertation is included in the **MSc Computing Project** section of this rep
 
 I have also included supporting academic documents related to my MSc studies, including my **Confirmation of Studies**.
 
-- [Confirmation of Studies](./Documents/Confirmation-of-Studies.pdf)
+- [Confirmation of Studies](./Confirmation-of-Studies.pdf)
 
 I also intend to upload my **MSc certificate** to this repository once I have submitted my dissertation by the end of **May 2026** and officially received the certificate.
