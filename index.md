@@ -36,7 +36,7 @@ In practical terms, this means I can:
 
 - turn a real-world problem into a clear AI task with objectives, constraints, risks, and success measures
 - prepare datasets through cleaning, checking quality, preventing leakage, and engineering useful features
-- build and compare models for classification, regression, clustering
+- build and compare models for classification, regression, and clustering
 - explain results clearly using the right metrics, charts, and written interpretation
 - combine text and tabular data in a single workflow using features such as TF-IDF
 - develop explainable knowledge systems using ontologies and rules
