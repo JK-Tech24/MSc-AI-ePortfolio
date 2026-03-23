@@ -9,9 +9,9 @@
 
 ## Overview
 
-This repository presents my e-portfolio for the **MSc in Artificial Intelligence** at the **University of Essex**. It showcases selected modules completed during the programme, with particular focus on the compulsory modules required for the e-portfolio submission.
+This repository brings together the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It highlights key modules from the programme and reflects my learning, development, and academic progress throughout the course.
 
-Modules marked with `*` are included as part of the mandatory e-portfolio submission.
+Modules marked with `*` are the ones included as part of my mandatory e-portfolio submission.
 
 ---
 
@@ -29,15 +29,10 @@ Modules marked with `*` are included as part of the mandatory e-portfolio submis
 
 ## Dissertation
 
-The dissertation for my **MSc Computing Project** is available in the corresponding section of this repository. This folder contains the final dissertation report together with any relevant supporting materials related to the project.
+My dissertation is included in the **MSc Computing Project** section of this repository. It represents the final stage of my MSc journey and brings together the research, technical skills, and knowledge I developed throughout the programme.
 
 ---
 
-## Repository Structure
+## Note
 
-```text
-.
-├── Machine-Learning/
-├── Research-Methods-and-Professional-Practice/
-├── Intelligent-Agents/
-└── MSc-Computing-Project/
+This repository is intended to present my academic work, project development, and reflections from across the MSc programme.
