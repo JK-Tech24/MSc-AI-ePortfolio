@@ -4,7 +4,7 @@
 **Qualifications:** BArch in Architectural Engineering, MSc in Construction Project Management  
 **University:** University of Essex  
 **Programme:** Master of Science in Artificial Intelligence  
-**Academic Year:** 2024–2025  
+**Academic Year:** April 2024– May 2026
 
 ---
 
