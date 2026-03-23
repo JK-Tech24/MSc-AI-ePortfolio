@@ -32,18 +32,6 @@ The repository includes the main modules covered during the programme, along wit
 
 My MSc in Artificial Intelligence gave me practical experience in building intelligent systems from start to finish. This included defining real problems clearly, working responsibly with data, applying statistics, building and comparing machine learning models, creating text-based features, using knowledge representation for explainable reasoning, and developing intelligent-agent systems with traceability and secure handling in mind.
 
-In practical terms, this means I can:
-
-- turn a real-world problem into a clear AI task with objectives, constraints, risks, and success measures
-- prepare datasets through cleaning, checking quality, preventing leakage, and engineering useful features
-- build and compare models for classification, regression, and clustering
-- explain results clearly using the right metrics, charts, and written interpretation
-- combine text and tabular data in a single workflow using features such as TF-IDF
-- develop explainable knowledge systems using ontologies and rules
-- build intelligent-agent workflows with logging, integrity checks, and secure transfer
-- present work clearly through notebooks, reports, and dashboards
-- work in a structured and reproducible way using GitHub and well-organised repositories
-
 ---
 
 ## Dissertation
