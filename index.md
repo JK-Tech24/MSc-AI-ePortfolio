@@ -1,6 +1,7 @@
 # 🎓 MSc in Artificial Intelligence – e-Portfolio
 
 **Student:** Jaafar El-Komati  
+**Qualifications:** BArch in Architectural Engineering, MSc in Construction Project Management  
 **University:** University of Essex  
 **Programme:** Master of Science in Artificial Intelligence  
 **Academic Year:** 2024–2025  
@@ -9,9 +10,7 @@
 
 ## Overview
 
-This repository is a collection of the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It reflects the knowledge, skills, and experience I developed throughout the programme, and brings together the key modules included in my e-portfolio.
-
-Modules marked with `*` are the ones included as part of my mandatory e-portfolio submission.
+This repository brings together the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It reflects the knowledge, skills, and experience I developed throughout the programme, while showcasing the key modules included in my e-portfolio. Modules marked with `*` are the ones included as part of my mandatory e-portfolio submission.
 
 ---
 
@@ -29,7 +28,7 @@ Modules marked with `*` are the ones included as part of my mandatory e-portfoli
 
 ## Dissertation
 
-My dissertation is included in the **MSc Computing Project** section of this repository. It represents the final part of my MSc journey and reflects the research, technical ability, and understanding I developed throughout the programme.
+My dissertation is included in the **MSc Computing Project** section of this repository. It focuses on developing an **AI-powered early-warning framework** for the early detection and mitigation of delays and cost overruns in construction project management, using project-controls data and a transparent dashboard-based approach. The final version presented here is aligned with the corrected dissertation, the evaluated dashboard run, and the uploaded workflow diagram, showing how the framework combines EVM indicators, interpretable scoring, and comparative AI components to support practical decision-making.
 
 ---
 
@@ -39,4 +38,4 @@ I have also included supporting academic documents related to my MSc studies, in
 
 - [Confirmation of Studies](./Documents/Confirmation-of-Studies.pdf)
 
-I also intend to upload my **MSc certificate** to this repository once I have submitted my dissertation by the end of **May 2026** and received the certificate.
+I also intend to upload my **MSc certificate** to this repository once I have submitted my dissertation by the end of **May 2026** and officially received the certificate.
