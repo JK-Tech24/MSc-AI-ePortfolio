@@ -30,7 +30,7 @@ The repository includes the main modules covered during the programme, along wit
 
 ## What I Studied and What I Can Do
 
-My MSc in Artificial Intelligence gave me practical experience in building intelligent systems from start to finish. This included defining real problems clearly, working responsibly with data, applying statistics, building and comparing machine learning models, creating text-based features, using knowledge representation for explainable reasoning, and developing intelligent-agent systems with traceability and secure handling in mind.
+During my MSc in Artificial Intelligence, I gained practical experience in developing intelligent systems from start to finish. This included defining real-world problems clearly, working responsibly with data, applying statistics, building and comparing machine learning models, creating text-based features, using knowledge representation for explainable reasoning, and developing intelligent-agent systems with traceability and secure handling in mind.
 
 ---
 
