@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository brings together the work I completed during my MSc in Artificial Intelligence at the University of Essex. It reflects the knowledge, skills, and hands-on experience I gained throughout the programme, while also building on my background in engineering, construction, and project management.
+This repository brings together the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It reflects the knowledge, skills, and hands-on experience I gained throughout the programme, while also building on my background in engineering, construction, and project management.
 
 The repository includes the main modules covered during the programme, along with selected work prepared as part of my e-portfolio submission. Modules marked with `*` are included in the mandatory e-portfolio.
 
@@ -112,12 +112,6 @@ These supported structured storage, query-based access, secure file transfer, an
 
 These supported version control, documentation, and organised project development.
 
-### Project Controls and Scheduling
-- **Primavera P6 (Expert)**
-- **Microsoft Project**
-
-These reflect my wider background in project controls and scheduling, including planning, baseline management, progress tracking, and schedule review.
-
 ---
 
 ## Software and Tools Overview
@@ -131,7 +125,6 @@ These reflect my wider background in project controls and scheduling, including 
 | Knowledge modelling | Protégé, OWL, UML | Ontologies, reasoning, and system structure |
 | Databases and security | SQL, SQLite, Paramiko, SHA-256 | Storage, audit logs, secure transfer, and integrity checks |
 | Workflow | Git, GitHub | Version control and organised project work |
-| Project controls | Primavera P6, Microsoft Project | Scheduling, progress control, and planning support |
 
 ---
 
@@ -141,7 +134,7 @@ I have also included supporting academic documents related to my MSc studies, in
 
 - [Confirmation of Studies](https://jk-tech24.github.io/MSc-AI-ePortfolio/Confirmation-of-Studies.pdf)
 
-I also plan to upload my **MSc certificate** to this repository once my dissertation has been submitted and the award has been formally confirmed.
+I also plan to upload my **MSc certificate** to this repository once my dissertation has been submitted by **mid to late May 2026** and the award has been formally confirmed.
 
 ---
 
