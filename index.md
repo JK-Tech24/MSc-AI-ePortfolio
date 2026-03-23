@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository brings together the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It highlights key modules from the programme and reflects my learning, development, and academic progress throughout the course.
+This repository is a collection of the work I completed during my **MSc in Artificial Intelligence** at the **University of Essex**. It reflects the knowledge, skills, and experience I developed throughout the programme, and brings together the key modules included in my e-portfolio.
 
 Modules marked with `*` are the ones included as part of my mandatory e-portfolio submission.
 
@@ -29,10 +29,14 @@ Modules marked with `*` are the ones included as part of my mandatory e-portfoli
 
 ## Dissertation
 
-My dissertation is included in the **MSc Computing Project** section of this repository. It represents the final stage of my MSc journey and brings together the research, technical skills, and knowledge I developed throughout the programme.
+My dissertation is included in the **MSc Computing Project** section of this repository. It represents the final part of my MSc journey and reflects the research, technical ability, and understanding I developed throughout the programme.
 
 ---
 
-## Note
+## Additional Documents
 
-This repository is intended to present my academic work, project development, and reflections from across the MSc programme.
+I have also included supporting academic documents related to my MSc studies, including my **Confirmation of Studies**.
+
+- [Confirmation of Studies](./Documents/Confirmation-of-Studies.pdf)
+
+I also intend to upload my **MSc certificate** to this repository once I have submitted my dissertation by the end of **May 2026** and received the certificate.
