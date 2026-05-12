@@ -22,11 +22,11 @@ The full code is organised into two main parts:
 
 ## Code Folder
 
-The full code can be found here:
+The full code can be found in the GitHub repository here:
 
-[View full project code](https://github.com/JK-Tech24/MSc-AI-ePortfolio/tree/main/MSc-Computing-Project/code)
+<a href="https://github.com/JK-Tech24/MSc-AI-ePortfolio/tree/main/MSc-Computing-Project/code" target="_blank">View full project code on GitHub</a>
 
 ## Files
 
-- [dashboard_app.py](https://github.com/JK-Tech24/MSc-AI-ePortfolio/blob/main/MSc-Computing-Project/code/dashboard_app.py)
-- [generate_bi_from_edm.py](https://github.com/JK-Tech24/MSc-AI-ePortfolio/blob/main/MSc-Computing-Project/code/generate_bi_from_edm.py)
+- <a href="https://github.com/JK-Tech24/MSc-AI-ePortfolio/blob/main/MSc-Computing-Project/code/dashboard_app.py" target="_blank">dashboard_app.py</a>
+- <a href="https://github.com/JK-Tech24/MSc-AI-ePortfolio/blob/main/MSc-Computing-Project/code/generate_bi_from_edm.py" target="_blank">generate_bi_from_edm.py</a>
