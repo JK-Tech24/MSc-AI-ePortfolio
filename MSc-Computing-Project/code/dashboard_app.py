@@ -13,7 +13,7 @@ import yaml
 
 pio.templates.default = "plotly_white"
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parents[1]
 
 DATA_DIR = BASE_DIR / "data/05_bi"
 RAW_DIR = BASE_DIR / "data/01_raw"
