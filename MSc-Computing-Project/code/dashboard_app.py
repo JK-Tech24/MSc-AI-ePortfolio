@@ -13,9 +13,11 @@ import yaml
 
 pio.templates.default = "plotly_white"
 
-DATA_DIR = Path("data/05_bi")
-RAW_DIR = Path("data/01_raw")
-CONFIG_THRESH = Path("config/thresholds.yaml")
+BASE_DIR = Path(__file__).parent
+
+DATA_DIR = BASE_DIR / "data/05_bi"
+RAW_DIR = BASE_DIR / "data/01_raw"
+CONFIG_THRESH = BASE_DIR / "config/thresholds.yaml"
 
 FILES = {
     "scores": DATA_DIR / "scores.csv",
