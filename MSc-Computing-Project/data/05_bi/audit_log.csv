@@ -1,0 +1,7 @@
+run_utc,run_id,file,project_id,sheet,header_row,synthetic_dates,rows,numeric_pct,partial_quality_accepted
+2026-05-13T19:40:43.712661+00:00,90a793e2bf0f,P018 - P01 Airport Carpark.xlsx,P018,Portfolio WBS,2,True,63,60.63492063492063,False
+2026-05-13T19:40:43.712661+00:00,90a793e2bf0f,P019 - P02 Landfill Cell.xlsx,P019,Portfolio WBS,2,True,30,74.66666666666667,False
+2026-05-13T19:40:43.712661+00:00,90a793e2bf0f,P020 - P03 Regional Bypass Road.xlsx,P020,Portfolio WBS,2,True,46,39.56521739130435,True
+2026-05-13T19:40:43.712661+00:00,90a793e2bf0f,P021 - P04 Regional Arterial Pavement Repairs.xlsx,P021,Portfolio WBS,2,True,13,87.6923076923077,False
+2026-05-13T19:40:43.712661+00:00,90a793e2bf0f,P022 - P05 Semi-Urban Road Reconstruction.xlsx,P022,Portfolio WBS,1,True,44,76.36363636363636,False
+2026-05-13T19:40:43.712661+00:00,90a793e2bf0f,P024 - P06 Urban Road Reconstruction.xlsx,P024,Portfolio WBS,1,True,65,72.3076923076923,False
