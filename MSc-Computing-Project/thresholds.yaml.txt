@@ -1,0 +1,12 @@
+tiers:
+  high: 0.85
+  medium: 0.70
+  low: 0.50
+
+evm:
+  cpi_warn: 0.90
+  spi_warn: 0.90
+
+quality:
+  min_numeric_pct: 60
+  min_input_rows: 5
